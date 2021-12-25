@@ -1,1 +1,1 @@
-# HW15-js-inheritance-part2
+# HW18-js-inheritance-part2
